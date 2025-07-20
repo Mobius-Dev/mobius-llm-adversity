@@ -1,0 +1,24 @@
+# OS/System
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# Node/Python artifacts if you ever use them
+node_modules/
+__pycache__/
+*.pyc
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Output dirs (if generated)
+output/
+logs/
