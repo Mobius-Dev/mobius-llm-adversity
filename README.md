@@ -26,7 +26,7 @@ To standardize the assessment of exploit severity and potential risk, I have dev
 
 This repository is organized in a modular fashion to facilitate navigation and analysis of individual findings:
 
-*   **/01_Core_Techniques_and_Vulnerabilities/:** Documentation of fundamental attack vectors and manipulation primitives that serve as the building blocks for more complex exploits.
+*   **/01_Vulnerability_Primitives/:** Documentation of fundamental attack vectors and manipulation primitives that serve as the building blocks for more complex exploits.
 *   **/02_Exploit_Payloads/:** A collection of structured, ready-to-use exploit payloads that leverage identified vulnerabilities, complete with full technical analysis and risk assessment.
 
 
